@@ -1,4 +1,4 @@
-# HW1: Listicle 
+# AS2: Listicle 
 Read the instruction.txt first of all.
 
 Please complete two webpages:
